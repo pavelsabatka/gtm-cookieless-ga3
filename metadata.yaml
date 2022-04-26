@@ -2,7 +2,7 @@ homepage: "https://www.sabatka.net"
 documentation: "https://github.com/pavelsabatka/gtm-cookieless-ga3"
 versions:
   # Latest version
-  - sha: bcf55b03020d1b291d9d2ede1cdaba83196c22cc
+  - sha: fa43b9c657c1aeae69da1093bbc7b141c47a2122
     changeNotes: Minor fixes
 
   # Older versions
