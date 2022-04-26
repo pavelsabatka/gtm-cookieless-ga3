@@ -19,7 +19,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "",
+  "description": "Template for cookieless tracking. Browser and device data are collected only with consent.\nThis template itself does not prevent IP processing.",
   "containerContexts": [
     "WEB"
   ]
@@ -601,3 +601,5 @@ setup: |-
 ___NOTES___
 
 Created on 19. 4. 2022 15:49:11
+
+
