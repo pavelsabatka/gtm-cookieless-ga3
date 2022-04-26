@@ -1,4 +1,12 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "TAG",
@@ -6,6 +14,7 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Google Analytics - Cookieless",
+  "categories": ["ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
@@ -592,5 +601,3 @@ setup: |-
 ___NOTES___
 
 Created on 19. 4. 2022 15:49:11
-
-
